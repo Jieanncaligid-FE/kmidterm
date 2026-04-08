@@ -1,0 +1,18 @@
+:root {
+  --beige: #f5f5dc;
+  --gold: #c9a227;
+}
+
+body {
+  background: var(--beige);
+  font-family: serif;
+}
+
+.text-gold {
+  color: var(--gold);
+}
+
+.bg-gold {
+  background: var(--gold);
+  color: white;
+}
